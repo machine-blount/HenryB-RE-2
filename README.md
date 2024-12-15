@@ -1,7 +1,7 @@
 # Exploring CNC invention 
 ***smaller sprint’s I had done throughout my RE(Resident Expert)***
 
-##RE Timeline 
+## RE Timeline 
 While creating anything for my resident expert, there is a point where a project might have parts that need to be cut on the shapebook, then the laser cutter, then post processed to be completed. I found that this can become disorienting for some projects so I created a timeline that act similarly to a flow chart where a project or sprint is broken down into individual tasks that are laid out in order.
 
 What's special about this method of project structuring for me, is that any point where the main timeline branches means that the branched task can be done separate to a main task and doesn't rely on it until later in the process. For example preparing the CAM files and preparing the material to be cut, rather than preparing the CAM files and measuring the material since you would need to measure the material first in order to create the CAM files. 
