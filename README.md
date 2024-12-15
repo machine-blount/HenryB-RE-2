@@ -15,7 +15,7 @@ On our solar car team it's a common annoyance that doing any maintenance on the 
 
 This was a surprisingly difficult exercise in thinking about how to convert hinged mechanisms into ones that bend instead and can be made from 1 solid part. I remember breaking down my crimper into basic shapes as a way to get an idea on which parts need to move. 
 
-<img src="https://github.com/user-attachments/assets/06b721c6-ab27-4542-bcaf-1b66686c78cc" width="300">
+<img src="https://github.com/user-attachments/assets/06b721c6-ab27-4542-bcaf-1b66686c78cc" width="350">
 
 The above are some designs that I had CNC milled out of HDPE I experimented with different thicknesses and shapes but ultimately a design as simple as the ones above showed the best signs of working. However they all had a difficult time closing and the design would still need to be further improved, possibly with a different material. 
 
@@ -25,13 +25,13 @@ During one of our highschool symposiums where we shared some artifacts from proj
 
 I did this by attaching a cut in half pencil inside the shapeoko’s collet and creating a very thin model of my contact card which I created using Fusion. The first few tries did not work but I was able to get everything up and running in only around 30-45 minutes which was just in time for the symposium.
 
-<img src="https://github.com/user-attachments/assets/3dcb248f-ff65-483d-87d3-90eeb0f3f5f4" width="200">
+<img src="https://github.com/user-attachments/assets/3dcb248f-ff65-483d-87d3-90eeb0f3f5f4" width="300">
 
 ## Tealight Holder
 As a part of an Etsy competition that our high school had held to see who could make the most money by creating a product and advertising it, I created an acrylic tealight. My original design had actually failed to work out right before the competition started so I had to redesign the simple tealight. 
 
 The final design is only made up of 3 acrylic layers held together by 3D printed supports. 
 
-<img src="https://github.com/user-attachments/assets/dcc2d0b2-b0e4-4476-a77d-1896da1cd6ef" width="200">
+<img src="https://github.com/user-attachments/assets/dcc2d0b2-b0e4-4476-a77d-1896da1cd6ef" width="300">
 
 To document smaller sprints similar to these, I created a blog website using glitch. I don't ever work with web based programming so it has been a really exciting experience making a tailored website for my content. You can visit it here - [click me](https://utopian-guttural-skull.glitch.me/)
